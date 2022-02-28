@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some account of the great sea-fight, wherein Their Majesties navy-royal, in conjunction with the Dutch squadron, engaged the French fleet off of Cape Barfleur, on the nineteenth of May, 1692. : And put them to flight, burning and sinking many of their ships so that the sea appeared full of wrecks of ships for two leagues together. : With an account of the sinking the French admiral, and his two seconds: : running many of their ships a-ground, which are destroyed by our fleet. : And some other particulars relating to this glorious success and victory over the common enemy. : Licensed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93481</idno>
+            <idno type="STC">Wing S4469aA</idno>
+            <idno type="STC">ESTC R233320</idno>
+            <idno type="EEBO-CITATION">43246667</idno>
+            <idno type="OCLC">ocm 43246667</idno>
+            <idno type="VID">151734</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93481)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151734)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2274:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some account of the great sea-fight, wherein Their Majesties navy-royal, in conjunction with the Dutch squadron, engaged the French fleet off of Cape Barfleur, on the nineteenth of May, 1692. : And put them to flight, burning and sinking many of their ships so that the sea appeared full of wrecks of ships for two leagues together. : With an account of the sinking the French admiral, and his two seconds: : running many of their ships a-ground, which are destroyed by our fleet. : And some other particulars relating to this glorious success and victory over the common enemy. : Licensed according to order.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, J. Deacon, J. Blare, and J. Back,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>La Hogue, Battle of, France, 1692.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Campaigns --  France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151734:1" rendition="simple:additions"/>
+            <p>Some ACCOUNT of the Great Sea-Fight, Wherein Their MAJESTIES NAVY-ROYAL, In Conjunction with the <hi>Dutch Squadron,</hi> ENGAGED THE French Fleet Off of <hi>CAPE BARFLEVR,</hi> On the Nineteenth of <hi>May,</hi> 1692.</p>
+            <p>AND Put them to Flight, Burning and Sinking many of their Ships, ſo that the Sea appeared full of Wrecks of Ships for Two Leagues together.</p>
+            <p>WITH AN Account of the Sinking the <hi>French Admiral,</hi> and his two <hi>Seconds:</hi> Running many of their Ships a-ground, which are deſtroyed by our Fleet.</p>
+            <p>AND Some other Particulars relating to this glorious Succeſs and Victory over the <hi>Common Enemy.</hi>
+            </p>
+            <p>
+               <hi>Licenſed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>P. Brooksby, J. Deacon, J. Blare,</hi> and <hi>J. Back.</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:151734:2"/>
+            <head>Some ACCOUNT of the Great Sea-Fight, Wherein Their MAJESTIES NAVY-ROYAL, In Conjunction with the <hi>Dutch Squadron,</hi> Engaged the French Fleet, &amp;c.</head>
+            <p>THE <hi>French</hi> thinking to do great Matters at Sea this Summer, got their Fleet out ſomewhat ſooner than than they were wont, appearing more numerous and dar<g ref="char:EOLhyphen"/>ing than they did the laſt Summer; ſo that on the 9th. of <hi>May,</hi> their whole Fleet, conſiſting of about 100 Sail, was, about Noon, ſeen off of <hi>Dartmouth,</hi> at a great Diſtance, <hi>viz.</hi> three Leagues from the Start, and continued turning to the Eaſtward, the Wind at Eaſt and by North; and the next Day,
+<pb n="3" facs="tcp:151734:2"/>they were again ſeen from the ſame Place, when, by their ſail<g ref="char:EOLhyphen"/>ing, they ſeemed as if they intended to ſtand to their own Coaſt: And our Fleet being now well mann'd, and in a very good Readi<g ref="char:EOLhyphen"/>neſs, on the 14th. of <hi>May,</hi> in the Afternoon, Admiral <hi>Ruſſel</hi> weighed Anchor out of <hi>Rye Bay,</hi> and about eleven the next Morning joyned Sir <hi>Ralph Delaval,</hi> and Rear-Admiral <hi>Carter</hi> at St. <hi>Helens,</hi> and ſoon after divers Dutch Men of War came to joyn him, ſo that the whole Fleet conſiſted of about Ninety Sail of Ships for the Line of Battel, the Officers and Seamen being very hearty and full of Courage, and every thing gave a happy Preſage of the Glorious Succeſs that ſoon after enſued, as ap<g ref="char:EOLhyphen"/>pears by the Loyal Addreſs, humbly preſented to Her Majeſty by the Chief Commanders of her Fleet; which for the Satisfacti<g ref="char:EOLhyphen"/>on of the Reader, it may not be amiſs to Incert, as an Intro<g ref="char:EOLhyphen"/>duction to ſo glorious an Enterprize, <hi>viz.</hi>
+            </p>
+            <p>The Queen being informed of a ſcandalous and malitious Re<g ref="char:EOLhyphen"/>port that was ſpread abroad, as if ſome of the Officers of their Majeſties Fleet were diſaffected, or not hearty in their Ser<g ref="char:EOLhyphen"/>vice, and that her Majeſty had thereupon ordered the Diſcharge of many of them from their Employments; Her Majeſty was pleaſed to command the Earl of <hi>Nottingham</hi> to write to Ad<g ref="char:EOLhyphen"/>miral <hi>Ruſſel,</hi> and let him know, that her Her Majeſty was ſatis<g ref="char:EOLhyphen"/>fied that this Report was raiſed by the Enemies of the Go<g ref="char:EOLhyphen"/>vernment, and that ſhe repoſed ſo entire a Confidence in their Fidelity, that ſhe had reſolved not to diſplace any one of them; which being by the Admiral communicated to them, they made and ſent up the following Addreſs.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <q rend="margQuotes">WE Your Majeſty's moſt dutiful and loyal Subjects and Servants, Flag-Officers and Captains in Your Majeſty's Fleet; out of the deep and grateful Senſe we have of Your Majeſty's good and juſt Opinion of our Loyalty and Fidelity Imparted to us by the Right Honourable Admiral <hi>Ruſſel,</hi> in a Letter to him from my Lord <hi>Nottingham,</hi> do, in the behalf of our ſelves, and all other Officers and Seamen, preſume to ad<g ref="char:EOLhyphen"/>dreſs our ſelves to your Majeſty at this Juncture, to undeceive
+<pb n="4" facs="tcp:151734:3" rendition="simple:additions"/>the World in thoſe falſe and malitious Reports that have been lately ſpread in prejudice of Your Majeſty's Service, by People of an unreaſonable Diſaffection to Your Majeſty's Government, and an obſtinate Averſion to the Quiet and Good of our Coun<g ref="char:EOLhyphen"/>try, that there are ſome amongſt us that are not truly zealous for, and entirely devoted to your Majeſty's Service; we do therefore moſt humbly beg Your Majeſty's Leave to add to our repeated Oaths, this Aſſurance of our Fidelity, that we with all imaginable Alacrity and Reſolution, venture our Lives in the Defence of Your Majeſty's undoubted Rights, and the Liberty and Religion of our Country, againſt all Foreign and Popiſh Invaders whatſoever; and that God Almighty may preſerve Your Majeſty's moſt ſacred Perſon, direct your Councils, and proſper Your Arms by Sea and Land againſt Your Majeſty's Enemies, Let all the People ſay <hi>Amen,</hi> with Your Majeſty's Dutiful and Loyal Subjects.</q>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Dated on Board the</hi> Britannia, <hi>at St.</hi> Helens. <date>May, 15. 1691.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This was ſigned by Sir <hi>John Aſhby,</hi> Admiral of the Blew, Sir <hi>Ralph Delaval,</hi> Vice Admiral of the Red, Mr. <hi>Rook,</hi> Vice Admiral of the Blew, Sir <hi>Clouſly Shouel,</hi> Rear Admiral of the Red, Mr. <hi>Carter,</hi> Rear Admiral of the Blew; upon receiving which, her Majeſty was pleaſed to ſay, <hi>That ſhe had always this Opinion of the Commanders, but was glad this was come to ſatisfie others.</hi>
+            </p>
+            <p>The Engliſh and Dutch Fleets having now taken the Seas, on the 18th. of <hi>May,</hi> the Admirals Scouts, whilſt he bore South Weſt and by South, ſeven Leagues from <hi>Cape Barfleur,</hi> made the Signal for ſeeing the Enemy, the Wind Weſtwardly: The French bore down upon our Fleet, and about eleven engaged it, but at ſome diſtance; we continued fighting till half an hour paſt five in the Evening, at which time, the Enemy tow<g ref="char:EOLhyphen"/>ed away with all their Boats, and we after them. It was calm all day, about ſix there was a freſh Engagement to the Weſt<g ref="char:EOLhyphen"/>ward
+<pb n="5" facs="tcp:151734:3" rendition="simple:additions"/>of the Admiral, ſuppoſed to be the Blew, and it conti<g ref="char:EOLhyphen"/>nued calm all Night, but the Particulars at preſent, are only, that the French were beaten, and the Admiral was ſteering a<g ref="char:EOLhyphen"/>way for <hi>Conquet Road,</hi> having a freſh Gale Eaſterly (but very foggy) that being the place he ſuppoſed they deſigned for; and that if it pleaſed God to ſend Fair Weather, he doubted not but to deſtroy the whole French Fleet. In the Night, three or four Ships were ſeen to blow up, but not known what they were.</p>
+            <p>As to ſome other Particulars, it appears by another Advice, That about the grey or opening of the Morning, our Fleet made the <hi>French</hi> Fleet in a Line of Battel, about two Leagues to the Windward; and they then having the Weather-gage, bore down very boldly and cloſely upon our Fleet; at Eleven the Engagement began, and continued very hot and furious till almoſt four in the Afternoon, at what time the <hi>French</hi> Fleet bore away. The Wind at Weſt by South, and Weſt South Weſt, veering about to North by Eaſt, and North North Eaſt, Sir <hi>Clouſly Shouel,</hi> and Sir <hi>John Aſhby,</hi> having the Weather<g ref="char:EOLhyphen"/>gage, fell bravely on, maintaining the Engagement till almoſt ten at Night; the <hi>French</hi> all that while bearing away, and the <hi>Engliſh</hi> purſuing them, ſome Ships were ſeen in the Night<g ref="char:EOLhyphen"/>time in flames, about nine of the Clock; but not knowing what they were, nor likewiſe the damage ſuſtained on either ſide, when this Advice came away.</p>
+            <p>But ſince this, the <hi>Mary Galley</hi> came from Admiral <hi>Ruſſel,</hi> to <hi>Spithead;</hi> who left him at Eight in the morning, about fifteen Leagues South and by Weſt from the <hi>Iſle of Wight,</hi> declaring he ſaw both the French Admirals Seconds ſunk, and many Ships on fire, and that for the ſpace of two Leagues together the Sea was full of Wrecks of Ships, but knew not of the loſs of any of their Majeſties Ships or Commanders; and that when this Galley came away, the <hi>French</hi> were running, and the <hi>Engliſh</hi> in purſuit of them; and about Ten of the Clock he heard them Engag'd again, and the Guns firing till One, at what time the Wind ſprung up at South and by Weſt.</p>
+            <pb n="6" facs="tcp:151734:4"/>
+            <p>Upon this News, and ever to be wiſh'd-for Succeſs, as well by Land as Sea, of which Heaven has given us already ſo great an Earneſt of future Improvement againſt the Common Enemy, not only the Joy of all good Subjects abounded, but the Bells, in all places where it came, were rung out; the Tower-Guns, and thoſe in other places, were diſcharged, and the Streets, at Night, filled with Bonfires and Illuminations, to the great con<g ref="char:EOLhyphen"/>tentment and rejoycing of the Nation.</p>
+            <p>Since the former Advices, a Letter came from <hi>Portſmouth,</hi> bearing date the 21ſt. of <hi>May,</hi> giving an Account that Their Majeſties Ship the <hi>Montague,</hi> Captain <hi>Foulk</hi> Commander, came in thither from the Fleet, his Ship being diſabled in the Fight, he leaving the Fleet the day before, about Nine of the Clock in the morning, purſuing the Enemy; and ſays, that Mr. <hi>Carter,</hi> Reer-Admiral of the <hi>Blue,</hi> was kill'd in the Action. And the ſame Letter further relates, That Captain <hi>Killingſworth,</hi> Commander of the <hi>Fox Fire-ſhip,</hi> had made his way to <hi>Portſmouth</hi> in his Boat; and gave an Account, That he had burnt his Fire<g ref="char:EOLhyphen"/>ſhip on board the <hi>French</hi> Reer-Admiral, but was put off with a great deal of difficulty; and that he ſaw a <hi>French</hi> Man-of-War, of about Seventy Guns, blow up, and another Three-deck'd Ship on fire.</p>
+            <p>On the Twenty firſt, about Nine of the Clock in the morn<g ref="char:EOLhyphen"/>ing, our Fleet ſet ſail again; as likewiſe did the <hi>French:</hi> Admiral <hi>Ruſſel</hi> took his courſe towards <hi>Barfleur,</hi> having got ſight of divers Ships under the ſhore: Admiral <hi>Allemond,</hi> of the <hi>Dutch,</hi> and the Admiral of the <hi>Blue,</hi> ſailed to the Weſt<g ref="char:EOLhyphen"/>ward. The firſt of theſe endeavoured to get up with ſixteen of the Enemies Ships which he diſcovered, ſuppoſing them to be coming from <hi>France</hi> to joyn the French Fleet. Sir <hi>John Aſhby</hi> purſued the reſt of the <hi>French</hi> Fleet, who in much Confuſion laboured to get into the Rafe of <hi>Ornay.</hi> Admiral <hi>Allemond</hi> loſt ſight of the afore-mentioned ſixteen Ships in the night, they having, as he ſuppoſed, got in among the Rocks; and becauſe he found it not ſafe nor convenient to follow them there, he ſailed Eaſtward again, to rejoyn Admiral <hi>Ruſſel.</hi>
+            </p>
+            <pb n="7" facs="tcp:151734:4" rendition="simple:additions"/>
+            <p>On the Twenty ſecond, in the Morning, Vice-Admiral <hi>De<g ref="char:EOLhyphen"/>laval</hi> burnt, near to the ſhore, under <hi>Cape de Wike,</hi> a great Ship, called the <hi>Royal Sun,</hi> of <hi>France,</hi> being the Ship of Count <hi>de Tour<g ref="char:EOLhyphen"/>ville,</hi> the <hi>French</hi> Admiral, carrying a Hundred and Four Guns; as likewiſe the Admiral commanded by his <hi>Second,</hi> Monſieur <hi>Beaujeu,</hi> a Ship carrying a Hundred and two Guns; and the <hi>Fort</hi> of Eighty Guns; with two Frigats, and Three of leſſer rank: And Admiral <hi>Ruſſel</hi> was in cloſe purſuit of Nine more. The Priſoners who were taken from the burnt Ships, declared, That during the time of the Battel, 4 or 5 of their biggeſt Ships were deſtroyed. Reer-Admiral <hi>Carter,</hi> and Collonel <hi>Haſtings,</hi> after much Bravery and Reſolution, were both killed in the Fight: And at this time an Account came from <hi>Portſmouth,</hi> that four <hi>French</hi> Ships, of three Decks, lay on the back of the <hi>Iſle of Wight,</hi> extremely diſabled; and that two <hi>Engliſh</hi> Men of War, who were refitted, with two <hi>Dutch</hi> Frigates, and a Fire-ſhip, were going againſt them, to take or deſtroy them.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151734:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
